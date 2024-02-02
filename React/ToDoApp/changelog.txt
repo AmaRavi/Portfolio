@@ -1,0 +1,5 @@
+Version 1: 01-02-2024 1.03pm
+- Completed Basic Todo List App
+	> Implemented List functionality - use of hooks, components, arrays, functions, and interfaces
+	> Implemented a User input funcitonality - update lists and items array with use of buttons and events
+	> Implemented a visual check feature - event handle of text style based on item conditional property
