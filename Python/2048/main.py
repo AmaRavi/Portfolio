@@ -2,8 +2,6 @@ from support import *
 from game import *
 
 def play_game(root):
-	# Add a docstring and type hints to this function
-	# Then write your code here
         """
                 Description:
                     Function called to start an instance of the game
